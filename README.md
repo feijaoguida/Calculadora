@@ -3,7 +3,7 @@
 Projeto de calculadora Simples utilizando React, para treinamento e pratica de conhecimento.
 
 <p align="center">
-  <img src="https://uploaddeimagens.com.br/imagens/_VRLBCI" />
+  <img src="https://uploaddeimagens.com.br/images/002/628/611/original/Capture_React_App_-_calculadorasimples.netlify.app.png" />
 </p>
 
 [![Tela](Calculadora "Tela")](https://uploaddeimagens.com.br/imagens/_VRLBCI "Tela")
