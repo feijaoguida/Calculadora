@@ -2,6 +2,10 @@
 
 Projeto de calculadora Simples utilizando React, para treinamento e pratica de conhecimento.
 
+<p align="center">
+  <img src="https://uploaddeimagens.com.br/imagens/_VRLBCI" />
+</p>
+
 [![Tela](Calculadora "Tela")](https://uploaddeimagens.com.br/imagens/_VRLBCI "Tela")
 
 Exemplo esta no link [Calculadora Simples](https://calculadorasimples.netlify.app/ "Calculadora Simples") Hospedado no Netlify.
