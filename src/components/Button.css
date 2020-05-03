@@ -26,10 +26,10 @@
 }
 
 .button.operation {
-  background-color: #fa8231;
+  background-color: #31fa7e;
   color: #fff;
 }
 
 .button.operation:active {
-  background-color: #c5916ecc;
+  background-color: #31fa7ecc;
 }
